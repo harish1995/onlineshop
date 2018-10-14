@@ -17,7 +17,7 @@ Application has been designed using [fresco](https://github.com/facebook/fresco)
 
 Note: Please consider the below points
 
-1.The images are downloading from goole, But you can provide your own server urls to load the image.
+1.The images are downloading from web url, But you can provide your own server urls to load the image.
 
 2.Item description I have just hard coded only for showcase. 
 
